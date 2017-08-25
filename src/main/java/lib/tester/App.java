@@ -2,13 +2,7 @@ package lib.tester;
 
 import java.io.*;
 import java.util.ArrayList;
-import java.util.UUID;
-import java.util.zip.ZipEntry;
-import java.util.zip.ZipOutputStream;
 
-import com.google.common.hash.HashCode;
-import com.google.common.hash.Hashing;
-import com.google.common.io.Files;
 import org.dom4j.*;
 
 /**
